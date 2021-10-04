@@ -4,8 +4,8 @@ Official repository for everything presented in Leonardo Placidi Data Science Ma
 I am a  <a href="https://www.credly.com/badges/519fac77-fea2-4649-bd46-22e5f1a3f1d8/public_url" target="_blank">Qiskit Advocate</a> and an <a href="https://www.credly.com/badges/aacdec95-e919-439b-ad6e-24753e42fd50?source=linked_in_profile" target="_blank">IBM Certified Associate Developer</a>.
 <br>
 ## Advisors:
-* Fabio Galasso, Sapienza University of Rome - Machine Learning expert
-* Alessandra Di Pierro, Verona University - Quantum Computing and Quantum Machine Learning expert
+* Fabio Galasso, professor at Sapienza University of Rome - Machine Learning expert
+* Alessandra Di Pierro, professor at Verona University - Quantum Computing and Quantum Machine Learning expert
 
 
 
