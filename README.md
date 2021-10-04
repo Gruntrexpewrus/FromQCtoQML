@@ -12,7 +12,7 @@ I am a  <a href="https://www.credly.com/badges/519fac77-fea2-4649-bd46-22e5f1a3f
 It is acknowledged the material available on <a href="https://qiskit.org/" target="_blank">Qiskit</a> and <a href="https://pennylane.ai/" target="_blank">PennyLane</a>. Some codes, for their simplicity or for the common methods implemented, are based on the above resources quoted or are developed after studying the official implementations.<br>
 
 These codes complete the main text of the Master's Thesis and represent a first work in Quantum Computing and Quantum Machine Learning by Leonardo Placidi.
-![alt text](http://url/to/image.png)
+![alt text](https://github.com/Gruntrexpewrus/FromQCtoQML/blob/main/image.png)
 
 # How to run
 
