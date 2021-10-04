@@ -3,6 +3,12 @@ Official repository for everything presented in Leonardo Placidi Data Science Ma
 <br>
 I am a  <a href="https://www.credly.com/badges/519fac77-fea2-4649-bd46-22e5f1a3f1d8/public_url" target="_blank">Qiskit Advocate</a> and <a href="https://www.credly.com/badges/aacdec95-e919-439b-ad6e-24753e42fd50?source=linked_in_profile" target="_blank">IBM Certified Associate Developer</a>.
 <br>
+## Advisors:
+* Fabio Galasso, Sapienza University of Rome - Machine Learning expert
+* Alessandra Di Pierro, Verona University - Quantum Computing and Quantum Machine Learning expert
+
+
+
 It is acknowledged the material available on <a href="https://qiskit.org/" target="_blank">Qiskit</a> and <a href="https://pennylane.ai/" target="_blank">PennyLane</a>. Some codes, for their simplicity or for the common methods implemented, are based on the above resources quoted or are developed after studying the official implementations. <br>
 
 These codes complete the main text of the Master's Thesis and represent a first work in Quantum Computing and Quantum Machine Learning by Leonardo Placidi.
