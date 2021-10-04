@@ -1,7 +1,7 @@
 # From Quantum Computing to Quantum Machine Learning
 Official repository for everything presented in Leonardo Placidi Data Science Master's Thesis - October 2021 - Sapienza University of Rome.
 <br>
-I am a  <a href="https://www.credly.com/badges/519fac77-fea2-4649-bd46-22e5f1a3f1d8/public_url" target="_blank">Qiskit Advocate</a> and <a href="https://www.credly.com/badges/aacdec95-e919-439b-ad6e-24753e42fd50?source=linked_in_profile" target="_blank">IBM Certified Associate Developer</a>.
+I am a  <a href="https://www.credly.com/badges/519fac77-fea2-4649-bd46-22e5f1a3f1d8/public_url" target="_blank">Qiskit Advocate</a> and an <a href="https://www.credly.com/badges/aacdec95-e919-439b-ad6e-24753e42fd50?source=linked_in_profile" target="_blank">IBM Certified Associate Developer</a>.
 <br>
 ## Advisors:
 * Fabio Galasso, Sapienza University of Rome - Machine Learning expert
