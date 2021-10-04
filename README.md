@@ -1,9 +1,9 @@
 # From Quantum Computing to Quantum Machine Learning
 Official repository for everything presented in Leonardo Placidi Data Science Master's Thesis - October 2021
 <br>
-It is acknowledged the material available on <a href="https://qiskit.org/" target="_blank">Qiskit</a> and <a href="https://pennylane.ai/" target="_blank">PennyLane</a>. Some codes, for their simplicity or for the common methods implemented, are heavily based on the above resources quoted.\\ <br>
+It is acknowledged the material available on <a href="https://qiskit.org/" target="_blank">Qiskit</a> and <a href="https://pennylane.ai/" target="_blank">PennyLane</a>. Some codes, for their simplicity or for the common methods implemented, are based on the above resources quoted or are developed after studying the official implementations. <br>
 
-These codes complete the main text of the Master's Thesis and represent a first long work in Quantum Computing from Leonardo Placidi.
+These codes complete the main text of the Master's Thesis and represent a first work in Quantum Computing and Quantum Machine Learning by Leonardo Placidi.
 
 # How to run
 
