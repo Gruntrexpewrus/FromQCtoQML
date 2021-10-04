@@ -12,5 +12,5 @@ For the sake of anyone that wants to learn and run quantum experiments I decided
 # What you find
 Every free file is named accordingly to the chapter it belongs in the text. <br>
 Regarding the folders:
-* Final Experiments: Here the reader may find all the notebooks containing the round of experiments discussed in the last Chapter of the thesis text.
-* IBMChallengesPlacidi: the reader may find here the solutions by the author for the IBM Global QuantumChallenge 2021 and for the Qiskit Summer School 2021. More it can be found the files regarding the Qiskit Africa Challenge 2021 I was a mentor in the period 8-21 September 2021. The solutions were already discosed as part of the Qiskit team, but the reader may find anyhow some insights and implemented solutions.
+* *Final Experiments*: Here the reader may find all the notebooks containing the round of experiments discussed in the last Chapter of the thesis text.
+* *IBMChallengesPlacidi*: the reader may find here the solutions by the author for the IBM Global QuantumChallenge 2021 and for the Qiskit Summer School 2021. More it can be found the files regarding the Qiskit Africa Challenge 2021 I was a mentor in the period 8-21 September 2021. The solutions were already discosed as part of the Qiskit team, but the reader may find anyhow some insights and implemented solutions.
