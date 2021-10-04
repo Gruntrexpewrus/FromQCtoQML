@@ -8,7 +8,7 @@ It is acknowledged the material available on <a href="https://qiskit.org/" targe
 For the sake of anyone that wants to learn and run quantum experiments I decided to provide everything in the form of jupyter notebooks. The reader can run this most preferably on Google Colab or on the IBM Quantum Experience.
 
 # What you find
-Every free file is named accordingly to the chapter it belongs in the text. \\
+Every free file is named accordingly to the chapter it belongs in the text. <br>
 Regarding the folders:
 * Item 1: kn
 * Item 2:
