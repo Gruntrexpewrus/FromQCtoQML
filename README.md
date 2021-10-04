@@ -12,8 +12,9 @@ I am a  <a href="https://www.credly.com/badges/519fac77-fea2-4649-bd46-22e5f1a3f
 It is acknowledged the material available on <a href="https://qiskit.org/" target="_blank">Qiskit</a> and <a href="https://pennylane.ai/" target="_blank">PennyLane</a>. Some codes, for their simplicity or for the common methods implemented, are based on the above resources quoted or are developed after studying the official implementations.<br>
 
 These codes complete the main text of the Master's Thesis and represent a first work in Quantum Computing and Quantum Machine Learning by Leonardo Placidi.
+<br>
 ![alt text](https://github.com/Gruntrexpewrus/FromQCtoQML/blob/main/image.png)
-
+<br>
 # How to run
 
 For the sake of anyone that wants to learn and run quantum experiments I decided to provide everything in the form of jupyter notebooks. The reader can run this most preferably on Google Colab or on the IBM Quantum Experience.
