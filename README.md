@@ -22,7 +22,7 @@ For the sake of anyone that wants to learn and run quantum experiments I decided
 # What you find
 Every free file is named accordingly to the chapter it belongs in the text. <br>
 Regarding the folders:
-* *ExperimentsPennyLane*: Here the reader may find all the notebooks containing the round of experiments discussed in the last Chapter of the thesis text.
+* *ExperimentsPennyLane*: Here the reader may find all the notebooks containing the round of experiments discussed in the last Chapter of the thesis text. In the text is referred as *FinalExperiments*.
 * *2021-QiskitAfricaQChallenge_Mentor*: the reader finds here the notebooks for the Africa events mentored by me (period 8-21 September 2021). The solution notebooks features implemented author's solutions (I had access well before the challenge to prepare for mentoring the students) along some proposed personal solutions.
 * *2021-QiskitGlobalChallenge_Competitor*: the reader may find here the original solutions authored by me for the IBM Global Quantum Challenge 2021 where I resulted as a top scorer globally. For some problems during the event the time limit was taken out, so the top score was ten shared with a series of other competitors that reached the same result.
 * *2021-QiskitSummerSchool_Student*: the reader may find here the original solutions authored by me for the Qiskit Summer School of 2021. There are 5 labs and, reaching the maximum grade, I was awarded an excellence diploma for the school.
